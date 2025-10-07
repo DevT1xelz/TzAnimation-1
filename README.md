@@ -19,4 +19,7 @@ Web Animation Selector — это красивый веб-проект с инт
 1. Перенесите все файлы в одну папку
 2. Запустите с помощью вашего браузера index.html
 
+Или
+
+https://devt1xelz.github.io/TzAnimation-1/
 
